@@ -5,7 +5,7 @@ if (process.env.BUILD_MODE === 'dev') {
 }
 
 if (process.env.BUILD_MODE === 'production') {
-  apiRoot = 'https://trello-api-mi62.onrender.com'
+  apiRoot = 'https://task-management-api-f88z.onrender.com'
 }
 
 export const API_ROOT = apiRoot
