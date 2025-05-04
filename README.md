@@ -1,5 +1,5 @@
-# Work Management
-A small work management web application. 
+# Task Management Web
+A small task management web application similar to Trello. 
 
 # Tech Stack
 - FE: ReactJS + Material UI. Drag/drop with Dndkit.
